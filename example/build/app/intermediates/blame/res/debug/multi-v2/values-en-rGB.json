@@ -4,7 +4,7 @@
             "outputFile": "/Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "/Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

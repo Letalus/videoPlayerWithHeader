@@ -5,23 +5,24 @@ INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
 MERGED from [:video_player_header] /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/build/video_player_header/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/596918c5708815cab4d4b8416d322a90/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f6f3f4b83e097f303b0a9eabad7a0b09/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/34302a199fbb0a97fa7e99f7cf59d14c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c36107f455384c69cbbf346b41cb28cb/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8eebaad7484f5d51e515ced14ae177a0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/bee45c8d8e7f2a2f0eb87f519efd60d0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1af1067b5272aa67c1aba8270546ada1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e1056824d89f69f01489a6b71f3d478e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/021a735dba99b5d1cedc4ecdc07f52e2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4a5587b7cd7c734d3866dd8aca082ccd/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c09bbe5ec125ec57d8372d041c5b8836/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7950e6ce025c58ead74ace0a36f0cab0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/1732dc1b2f6a8e3bbc40272015d3ef2e/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/6b84ea076b142c02ee9e72c2f83f977d/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/e9103e94ce3760e9402b26bf6b4f8e57/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/0bbd042be0d59433618c191fc08c827a/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/12c076570219bdc2a11e9d0df335391a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/f52c60a67eb4c2183a64b296ae574169/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86065158ecc19e377a0bd13f6db14a24/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8a449fdb8a2397f4be82c1177d90ca7c/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c34239888b6696ada54ac82cd568c00c/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46ae4e052b6991767da397d8e84e5268/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8cf26fd0d5f767ad6dfe1019ab25b952/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ffef9ed1c224809e18ded1efe2c41337/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:1:1-27:12
@@ -45,12 +46,12 @@ ADDED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/an
 		ADDED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:6:5-26:19
-MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c09bbe5ec125ec57d8372d041c5b8836/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c09bbe5ec125ec57d8372d041c5b8836/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml:8:9-52
 	android:icon
@@ -95,40 +96,42 @@ INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml
 MERGED from [:video_player_header] /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/build/video_player_header/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:video_player_header] /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/build/video_player_header/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/596918c5708815cab4d4b8416d322a90/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/596918c5708815cab4d4b8416d322a90/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f6f3f4b83e097f303b0a9eabad7a0b09/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f6f3f4b83e097f303b0a9eabad7a0b09/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/34302a199fbb0a97fa7e99f7cf59d14c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/34302a199fbb0a97fa7e99f7cf59d14c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c36107f455384c69cbbf346b41cb28cb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c36107f455384c69cbbf346b41cb28cb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8eebaad7484f5d51e515ced14ae177a0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8eebaad7484f5d51e515ced14ae177a0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c6cd3820f1c0609763b5fccbf0a1d9db/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/bee45c8d8e7f2a2f0eb87f519efd60d0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/bee45c8d8e7f2a2f0eb87f519efd60d0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1af1067b5272aa67c1aba8270546ada1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1af1067b5272aa67c1aba8270546ada1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e1056824d89f69f01489a6b71f3d478e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e1056824d89f69f01489a6b71f3d478e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/021a735dba99b5d1cedc4ecdc07f52e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/021a735dba99b5d1cedc4ecdc07f52e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4a5587b7cd7c734d3866dd8aca082ccd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4a5587b7cd7c734d3866dd8aca082ccd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c09bbe5ec125ec57d8372d041c5b8836/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/c09bbe5ec125ec57d8372d041c5b8836/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7950e6ce025c58ead74ace0a36f0cab0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7950e6ce025c58ead74ace0a36f0cab0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/1732dc1b2f6a8e3bbc40272015d3ef2e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/1732dc1b2f6a8e3bbc40272015d3ef2e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/6b84ea076b142c02ee9e72c2f83f977d/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/6b84ea076b142c02ee9e72c2f83f977d/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/e9103e94ce3760e9402b26bf6b4f8e57/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/e9103e94ce3760e9402b26bf6b4f8e57/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/0bbd042be0d59433618c191fc08c827a/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/0bbd042be0d59433618c191fc08c827a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/12c076570219bdc2a11e9d0df335391a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/12c076570219bdc2a11e9d0df335391a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/f52c60a67eb4c2183a64b296ae574169/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/f52c60a67eb4c2183a64b296ae574169/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86065158ecc19e377a0bd13f6db14a24/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/86065158ecc19e377a0bd13f6db14a24/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8a449fdb8a2397f4be82c1177d90ca7c/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8a449fdb8a2397f4be82c1177d90ca7c/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c34239888b6696ada54ac82cd568c00c/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/c34239888b6696ada54ac82cd568c00c/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46ae4e052b6991767da397d8e84e5268/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46ae4e052b6991767da397d8e84e5268/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8cf26fd0d5f767ad6dfe1019ab25b952/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hottube/.gradle/caches/transforms-2/files-2.1/8cf26fd0d5f767ad6dfe1019ab25b952/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ffef9ed1c224809e18ded1efe2c41337/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hottube/.gradle/caches/transforms-2/files-2.1/ffef9ed1c224809e18ded1efe2c41337/multidex-2.0.1/AndroidManifest.xml:20:5-43
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -140,6 +143,6 @@ INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example
 		ADDED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/hottube/AndroidStudioProjects/videoPlayerWithHeader/example/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/0bbd042be0d59433618c191fc08c827a/AndroidManifest.xml:24:5-79
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46ae4e052b6991767da397d8e84e5268/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/0bbd042be0d59433618c191fc08c827a/AndroidManifest.xml:24:22-76
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hottube/.gradle/caches/transforms-2/files-2.1/46ae4e052b6991767da397d8e84e5268/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:22-76
