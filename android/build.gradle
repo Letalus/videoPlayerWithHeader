@@ -40,6 +40,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     lintOptions {
         disable 'InvalidPackage'
@@ -56,5 +57,6 @@ android {
         implementation 'com.google.android.exoplayer:exoplayer-hls:2.9.6'
         implementation 'com.google.android.exoplayer:exoplayer-dash:2.9.6'
         implementation 'com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6'
+        implementation 'androidx.multidex:multidex:2.0.1'
     }
 }
