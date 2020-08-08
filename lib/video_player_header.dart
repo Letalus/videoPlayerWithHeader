@@ -33,7 +33,7 @@ class DurationRange {
 }
 
 /// The duration, current position, buffering state, error state and settings
-/// of a [VideoPlayerController].
+/// of a [VideoPlayHeaderController].
 class VideoPlayerValue {
   VideoPlayerValue({
     @required this.duration,
@@ -140,32 +140,32 @@ enum DataSourceType { asset, network, file }
 /// To reclaim the resources used by the player call [dispose].
 ///
 /// After [dispose] all further calls are ignored.
-class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
-  /// Constructs a [VideoPlayerController] playing a video from an asset.
+class VideoPlayHeaderController extends ValueNotifier<VideoPlayerValue> {
+  /// Constructs a [VideoPlayHeaderController] playing a video from an asset.
   ///
   /// The name of the asset is given by the [dataSource] argument and must not be
   /// null. The [package] argument must be non-null when the asset comes from a
   /// package and null otherwise.
-  VideoPlayerController.asset(this.dataSource, {this.package})
+  VideoPlayHeaderController.asset(this.dataSource, {this.package})
       : dataSourceType = DataSourceType.asset,
         headers = null,
         super(VideoPlayerValue(duration: null));
 
-  /// Constructs a [VideoPlayerController] playing a video from obtained from
+  /// Constructs a [VideoPlayHeaderController] playing a video from obtained from
   /// the network.
   ///
   /// The URI for the video is given by the [dataSource] argument and must not be
   /// null.
-  VideoPlayerController.network(this.dataSource, {this.headers})
+  VideoPlayHeaderController.network(this.dataSource, {this.headers})
       : dataSourceType = DataSourceType.network,
         package = null,
         super(VideoPlayerValue(duration: null));
 
-  /// Constructs a [VideoPlayerController] playing a video from a file.
+  /// Constructs a [VideoPlayHeaderController] playing a video from a file.
   ///
   /// This will load the file from the file-URI given by:
   /// `'file://${file.path}'`.
-  VideoPlayerController.file(File file)
+  VideoPlayHeaderController.file(File file)
       : dataSource = 'file://${file.path}',
         dataSourceType = DataSourceType.file,
         package = null,
@@ -176,7 +176,7 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
   final String dataSource;
   final Map<String, String> headers;
 
-  /// Describes the type of data source this [VideoPlayerController]
+  /// Describes the type of data source this [VideoPlayHeaderController]
   /// is constructed with.
   final DataSourceType dataSourceType;
 
@@ -404,7 +404,7 @@ class _VideoAppLifeCycleObserver extends Object with WidgetsBindingObserver {
   _VideoAppLifeCycleObserver(this._controller);
 
   bool _wasPlayingBeforePause = false;
-  final VideoPlayerController _controller;
+  final VideoPlayHeaderController _controller;
 
   void initialize() {
     WidgetsBinding.instance.addObserver(this);
@@ -435,7 +435,7 @@ class _VideoAppLifeCycleObserver extends Object with WidgetsBindingObserver {
 class VideoPlayer extends StatefulWidget {
   VideoPlayer(this.controller);
 
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
 
   @override
   _VideoPlayerState createState() => _VideoPlayerState();
@@ -504,7 +504,7 @@ class _VideoScrubber extends StatefulWidget {
   });
 
   final Widget child;
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
 
   @override
   _VideoScrubberState createState() => _VideoScrubberState();
@@ -513,7 +513,7 @@ class _VideoScrubber extends StatefulWidget {
 class _VideoScrubberState extends State<_VideoScrubber> {
   bool _controllerWasPlaying = false;
 
-  VideoPlayerController get controller => widget.controller;
+  VideoPlayHeaderController get controller => widget.controller;
 
   @override
   Widget build(BuildContext context) {
@@ -573,7 +573,7 @@ class VideoProgressIndicator extends StatefulWidget {
         this.padding = const EdgeInsets.only(top: 5.0),
       }) : colors = colors ?? VideoProgressColors();
 
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
   final VideoProgressColors colors;
   final bool allowScrubbing;
   final EdgeInsets padding;
@@ -594,7 +594,7 @@ class _VideoProgressIndicatorState extends State<VideoProgressIndicator> {
 
   VoidCallback listener;
 
-  VideoPlayerController get controller => widget.controller;
+  VideoPlayHeaderController get controller => widget.controller;
   VideoProgressColors get colors => widget.colors;
 
   @override

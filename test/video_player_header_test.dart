@@ -5,7 +5,7 @@ import 'package:video_player_header/video_player_header.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 class FakeController extends ValueNotifier<VideoPlayerValue>
-    implements VideoPlayerController {
+    implements VideoPlayHeaderController {
   FakeController() : super(VideoPlayerValue(duration: null));
 
   @override

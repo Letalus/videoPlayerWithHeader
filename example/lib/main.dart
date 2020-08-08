@@ -17,7 +17,7 @@ import 'package:video_player_header/video_player_header.dart';
 class VideoPlayPause extends StatefulWidget {
   VideoPlayPause(this.controller);
 
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
 
   @override
   State createState() {
@@ -36,7 +36,7 @@ class _VideoPlayPauseState extends State<VideoPlayPause> {
       FadeAnimation(child: const Icon(Icons.play_arrow, size: 100.0));
   VoidCallback listener;
 
-  VideoPlayerController get controller => widget.controller;
+  VideoPlayHeaderController get controller => widget.controller;
 
   @override
   void initState() {
@@ -154,7 +154,7 @@ class _FadeAnimationState extends State<FadeAnimation>
 }
 
 typedef Widget VideoWidgetBuilder(
-    BuildContext context, VideoPlayerController controller);
+    BuildContext context, VideoPlayHeaderController controller);
 
 abstract class PlayerLifeCycle extends StatefulWidget {
   PlayerLifeCycle(this.dataSource, this.childBuilder);
@@ -163,7 +163,7 @@ abstract class PlayerLifeCycle extends StatefulWidget {
   final String dataSource;
 }
 
-/// A widget connecting its life cycle to a [VideoPlayerController] using
+/// A widget connecting its life cycle to a [VideoPlayHeaderController] using
 /// a data source from the network.
 class NetworkPlayerLifeCycle extends PlayerLifeCycle {
   NetworkPlayerLifeCycle(String dataSource, VideoWidgetBuilder childBuilder)
@@ -173,7 +173,7 @@ class NetworkPlayerLifeCycle extends PlayerLifeCycle {
   _NetworkPlayerLifeCycleState createState() => _NetworkPlayerLifeCycleState();
 }
 
-/// A widget connecting its life cycle to a [VideoPlayerController] using
+/// A widget connecting its life cycle to a [VideoPlayHeaderController] using
 /// an asset as data source
 class AssetPlayerLifeCycle extends PlayerLifeCycle {
   AssetPlayerLifeCycle(String dataSource, VideoWidgetBuilder childBuilder)
@@ -184,7 +184,7 @@ class AssetPlayerLifeCycle extends PlayerLifeCycle {
 }
 
 abstract class _PlayerLifeCycleState extends State<PlayerLifeCycle> {
-  VideoPlayerController controller;
+  VideoPlayHeaderController controller;
 
   @override
 
@@ -219,20 +219,20 @@ abstract class _PlayerLifeCycleState extends State<PlayerLifeCycle> {
     return widget.childBuilder(context, controller);
   }
 
-  VideoPlayerController createVideoPlayerController();
+  VideoPlayHeaderController createVideoPlayerController();
 }
 
 class _NetworkPlayerLifeCycleState extends _PlayerLifeCycleState {
   @override
-  VideoPlayerController createVideoPlayerController() {
-    return VideoPlayerController.network(widget.dataSource);
+  VideoPlayHeaderController createVideoPlayerController() {
+    return VideoPlayHeaderController.network(widget.dataSource);
   }
 }
 
 class _AssetPlayerLifeCycleState extends _PlayerLifeCycleState {
   @override
-  VideoPlayerController createVideoPlayerController() {
-    return VideoPlayerController.asset(widget.dataSource);
+  VideoPlayHeaderController createVideoPlayerController() {
+    return VideoPlayHeaderController.asset(widget.dataSource);
   }
 }
 
@@ -274,7 +274,7 @@ Widget buildCard(String title) {
 class VideoInListOfCards extends StatelessWidget {
   VideoInListOfCards(this.controller);
 
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
 
   @override
   Widget build(BuildContext context) {
@@ -318,14 +318,14 @@ class VideoInListOfCards extends StatelessWidget {
 class AspectRatioVideo extends StatefulWidget {
   AspectRatioVideo(this.controller);
 
-  final VideoPlayerController controller;
+  final VideoPlayHeaderController controller;
 
   @override
   AspectRatioVideoState createState() => AspectRatioVideoState();
 }
 
 class AspectRatioVideoState extends State<AspectRatioVideo> {
-  VideoPlayerController get controller => widget.controller;
+  VideoPlayHeaderController get controller => widget.controller;
   bool initialized = false;
 
   VoidCallback listener;
@@ -394,7 +394,7 @@ void main() {
                       child: NetworkPlayerLifeCycle(
                         'http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8',
                         (BuildContext context,
-                                VideoPlayerController controller) =>
+                                VideoPlayHeaderController controller) =>
                             AspectRatioVideo(controller),
                       ),
                     ),
@@ -413,7 +413,7 @@ void main() {
                       child: AssetPlayerLifeCycle(
                           'assets/Butterfly-209.mp4',
                           (BuildContext context,
-                                  VideoPlayerController controller) =>
+                                  VideoPlayHeaderController controller) =>
                               AspectRatioVideo(controller)),
                     ),
                   ],
@@ -421,7 +421,7 @@ void main() {
               ),
               AssetPlayerLifeCycle(
                   'assets/Butterfly-209.mp4',
-                  (BuildContext context, VideoPlayerController controller) =>
+                  (BuildContext context, VideoPlayHeaderController controller) =>
                       VideoInListOfCards(controller)),
             ],
           ),
