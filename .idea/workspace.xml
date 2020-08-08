@@ -2,112 +2,278 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac76c2b7-47ca-4f8f-b8a4-102891fe6d33" name="Default Changelist" comment="androidx migration">
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_core_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_dash_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_hls_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_smoothstreaming_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules/-1227675349/video_player_header.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/modules/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_core_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_dash_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_hls_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_google_android_exoplayer_exoplayer_smoothstreaming_2_9_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_ee76268252c22f5c11e82a7b87423ca3982e51a7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/modules/-1227675349/video_player_header.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/modules/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/bundle_manifest/debug/bundle-manifest/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/compatible_screen_manifest/debug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+3avMr8umWtctUHIw5qsX6g0tsc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+BWy7vd1uFeBJomiW3t5WcLez+Y=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+XtrpP49bWSocpNVj+n0eVWiZe0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Uv9yuC90Va+VWYcv6_NxuhwrJU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/1sT2NQZw2_FhFz4Lc5c0jBeg6Gw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/7+XGBA1txNkhhxB8eQkNUhXoWZo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/82dL3AbkbidTbrqF59viz1xVvqM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/9hYL1GDVi4jlurb2Ur1ULLhsWIM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/DWvk4OYYMWd48Gz0TeJo5hrsyJg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JcsAolBJ1iZMLDyNk4kOmnBVqac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/OBpA5z99jBSqSzF9ExwRYqR0_E4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/RTptN9lfSBHHoUtcXocPbuDbfko=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/SsXoU5icESCfFxTtX0NZfzq3DjE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/a36sP+AKkQukvXN0gm7gNabaUek=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/csBQJ58_DCrf8CrOb5lvf06lhUc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/eQFCanRVCZlTu9cfvPMnuH4YHyk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/f3wKI2Jmq4geR0rHipp9ClRLtkA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/gIGOxjpYeOBe2D4aRiy0lzAcD3M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/iv5T1bTjqh70oHsy4KofbjeM8nw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/pNkdav3MKD1Zk1NqdbyeYaej3oI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/t5o2Ee4MykxA5R5OBUkSEckbnNQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/tkXxIp8ol1z6W+0Ccg+okVfFwoc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ufipGkkcTZX3DVfXNMLq6_cWH+Q=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/vUfIgCDZP9Co3FcCUe_8yfVcevA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+3avMr8umWtctUHIw5qsX6g0tsc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+BWy7vd1uFeBJomiW3t5WcLez+Y=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+XtrpP49bWSocpNVj+n0eVWiZe0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/0Uv9yuC90Va+VWYcv6_NxuhwrJU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/1sT2NQZw2_FhFz4Lc5c0jBeg6Gw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/7+XGBA1txNkhhxB8eQkNUhXoWZo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/82dL3AbkbidTbrqF59viz1xVvqM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/9hYL1GDVi4jlurb2Ur1ULLhsWIM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/AMDYx4sgsv3FYbs61V3hDlKZiZ0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DWvk4OYYMWd48Gz0TeJo5hrsyJg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JcsAolBJ1iZMLDyNk4kOmnBVqac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/LclnoyarQZ72cnMF8H9_aPpByl0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/OBpA5z99jBSqSzF9ExwRYqR0_E4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/RTptN9lfSBHHoUtcXocPbuDbfko=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/SsXoU5icESCfFxTtX0NZfzq3DjE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Z2hnaX+D4_5AXtPZpcGkxjhxuZw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/_A1ePZM_flInOZ5lfSZnbqOVoNI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/a36sP+AKkQukvXN0gm7gNabaUek=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/csBQJ58_DCrf8CrOb5lvf06lhUc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/eQFCanRVCZlTu9cfvPMnuH4YHyk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/f3wKI2Jmq4geR0rHipp9ClRLtkA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gIGOxjpYeOBe2D4aRiy0lzAcD3M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/iv5T1bTjqh70oHsy4KofbjeM8nw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/pNkdav3MKD1Zk1NqdbyeYaej3oI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/t5o2Ee4MykxA5R5OBUkSEckbnNQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/tkXxIp8ol1z6W+0Ccg+okVfFwoc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/uJwROOzhktDhwqqqfYCGmsBQze8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/ufipGkkcTZX3DVfXNMLq6_cWH+Q=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/vUfIgCDZP9Co3FcCUe_8yfVcevA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/instant_app_manifest/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/Butterfly-209.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/flutter-mark-square-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/metadata_feature_manifest/debug/metadata-feature/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/videoplayerexample/BuildConfig.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/videoplayerexample/MainActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/stripped_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/stripped_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/.transforms/02ba2d3d45ff8d80d53bec322b6dcee5.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/.transforms/02ba2d3d45ff8d80d53bec322b6dcee5/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/flutter_build/55b4780d88e74c7a655c2c05230df85b/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/bundle_manifest/debug/bundle-manifest/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/compatible_screen_manifest/debug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+3avMr8umWtctUHIw5qsX6g0tsc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+BWy7vd1uFeBJomiW3t5WcLez+Y=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+XtrpP49bWSocpNVj+n0eVWiZe0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Uv9yuC90Va+VWYcv6_NxuhwrJU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/1sT2NQZw2_FhFz4Lc5c0jBeg6Gw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/7+XGBA1txNkhhxB8eQkNUhXoWZo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/82dL3AbkbidTbrqF59viz1xVvqM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/9hYL1GDVi4jlurb2Ur1ULLhsWIM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/DWvk4OYYMWd48Gz0TeJo5hrsyJg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JcsAolBJ1iZMLDyNk4kOmnBVqac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/OBpA5z99jBSqSzF9ExwRYqR0_E4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/RTptN9lfSBHHoUtcXocPbuDbfko=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/SsXoU5icESCfFxTtX0NZfzq3DjE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/a36sP+AKkQukvXN0gm7gNabaUek=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/csBQJ58_DCrf8CrOb5lvf06lhUc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/eQFCanRVCZlTu9cfvPMnuH4YHyk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/f3wKI2Jmq4geR0rHipp9ClRLtkA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/gIGOxjpYeOBe2D4aRiy0lzAcD3M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/iv5T1bTjqh70oHsy4KofbjeM8nw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/pNkdav3MKD1Zk1NqdbyeYaej3oI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/t5o2Ee4MykxA5R5OBUkSEckbnNQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/tkXxIp8ol1z6W+0Ccg+okVfFwoc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ufipGkkcTZX3DVfXNMLq6_cWH+Q=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/vUfIgCDZP9Co3FcCUe_8yfVcevA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+3avMr8umWtctUHIw5qsX6g0tsc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+BWy7vd1uFeBJomiW3t5WcLez+Y=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+XtrpP49bWSocpNVj+n0eVWiZe0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/0Uv9yuC90Va+VWYcv6_NxuhwrJU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/1sT2NQZw2_FhFz4Lc5c0jBeg6Gw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/7+XGBA1txNkhhxB8eQkNUhXoWZo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/82dL3AbkbidTbrqF59viz1xVvqM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/9hYL1GDVi4jlurb2Ur1ULLhsWIM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/AMDYx4sgsv3FYbs61V3hDlKZiZ0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DWvk4OYYMWd48Gz0TeJo5hrsyJg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JcsAolBJ1iZMLDyNk4kOmnBVqac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/LclnoyarQZ72cnMF8H9_aPpByl0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/OBpA5z99jBSqSzF9ExwRYqR0_E4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/RTptN9lfSBHHoUtcXocPbuDbfko=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/SsXoU5icESCfFxTtX0NZfzq3DjE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Z2hnaX+D4_5AXtPZpcGkxjhxuZw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/_A1ePZM_flInOZ5lfSZnbqOVoNI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/a36sP+AKkQukvXN0gm7gNabaUek=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/csBQJ58_DCrf8CrOb5lvf06lhUc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/eQFCanRVCZlTu9cfvPMnuH4YHyk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/f3wKI2Jmq4geR0rHipp9ClRLtkA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gIGOxjpYeOBe2D4aRiy0lzAcD3M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/iv5T1bTjqh70oHsy4KofbjeM8nw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/pNkdav3MKD1Zk1NqdbyeYaej3oI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/t5o2Ee4MykxA5R5OBUkSEckbnNQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/tkXxIp8ol1z6W+0Ccg+okVfFwoc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/uJwROOzhktDhwqqqfYCGmsBQze8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/ufipGkkcTZX3DVfXNMLq6_cWH+Q=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/vUfIgCDZP9Co3FcCUe_8yfVcevA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/instant_app_manifest/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/Butterfly-209.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/flutter-mark-square-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_native_libs/debug/out/lib/armeabi-v7a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/merged_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/metadata_feature_manifest/debug/metadata-feature/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/processed_res/debug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/829d4ad23e6ade4e024cb19e29492747d73bb54e5ced28bc70668287d1306722_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/videoplayerexample/BuildConfig.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/videoplayerexample/MainActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/stripped_native_libs/debug/out/lib/armeabi-v7a/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/stripped_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/stripped_native_libs/debug/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/app/outputs/apk/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/.transforms/02ba2d3d45ff8d80d53bec322b6dcee5.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/.transforms/02ba2d3d45ff8d80d53bec322b6dcee5/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/build/video_player_header/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/example/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/libs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/libs.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/ios/pod_inputs.fingerprint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/video_player_header/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/video_player_header/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/build/video_player_header/outputs/aar/video_player_header-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/video_player_header/outputs/aar/video_player_header-debug.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/example/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/video_player_header/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/video_player_header.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/video_player_header.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/video_player_header_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/video_player_header_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>header</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -130,6 +296,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -191,9 +358,9 @@
       <screen x="0" y="23" width="1792" height="1046" />
     </state>
     <state x="744" y="442" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-958.-1057.1920.1057/0.23.1792.1046/962.-1057.1920.1057@0.23.1792.1046" timestamp="1596813564235" />
-    <state x="446" y="148" key="CommitChangelistDialog2" timestamp="1596813117207">
+    <state x="446" y="148" key="CommitChangelistDialog2" timestamp="1596888049352">
       <screen x="0" y="23" width="1792" height="1046" />
     </state>
-    <state x="446" y="148" key="CommitChangelistDialog2/-958.-1057.1920.1057/0.23.1792.1046/962.-1057.1920.1057@0.23.1792.1046" timestamp="1596813117207" />
+    <state x="446" y="148" key="CommitChangelistDialog2/-958.-1057.1920.1057/0.23.1792.1046/962.-1057.1920.1057@0.23.1792.1046" timestamp="1596888049352" />
   </component>
 </project>
